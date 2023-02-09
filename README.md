@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi! I'm Andrew and I'm a full stack software engineer who has a background in finance which has helped me grow in areas relating to analysis, planning, and communication. As a recent graduate from a rigorously competitive 24-week programming bootcamp, I have developed three full stack applications utilizing Javascript, Python, Flask, Express, React, and Redux to name a few frameworks. Please check them out below!
+## I'm Andrew and I'm a full stack software engineer who has a background in finance which has helped me grow in areas relating to analysis, planning, and communication. As a recent graduate from a rigorously competitive 24-week programming bootcamp, I have developed three full stack applications utilizing Javascript, Python, Flask, Express, React, and Redux to name a few frameworks. Please check them out below!
